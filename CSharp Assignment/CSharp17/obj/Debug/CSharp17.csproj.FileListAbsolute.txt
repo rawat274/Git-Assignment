@@ -1,0 +1,8 @@
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\bin\Debug\CSharp17.exe.config
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\bin\Debug\CSharp17.exe
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\bin\Debug\CSharp17.pdb
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\obj\Debug\CSharp17.csproj.SuggestedBindingRedirects.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\obj\Debug\CSharp17.csproj.CoreCompileInputs.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\obj\Debug\CSharp17.exe
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\obj\Debug\CSharp17.pdb
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp17\obj\Debug\CSharp17.csproj.AssemblyReference.cache

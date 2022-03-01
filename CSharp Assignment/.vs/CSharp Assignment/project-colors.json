@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bebde59c-35b4-4810-acdb-f080611a11bc": {
+      "ProjectGuid": "bebde59c-35b4-4810-acdb-f080611a11bc",
+      "DisplayName": "CSharp1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c6f63169-e49f-4ecc-b686-5de601d11bff": {
+      "ProjectGuid": "c6f63169-e49f-4ecc-b686-5de601d11bff",
+      "DisplayName": "CSharp2",
+      "ColorIndex": 1
+    },
+    "c2c3fd74-6240-4dc6-a058-a612c92746db": {
+      "ProjectGuid": "c2c3fd74-6240-4dc6-a058-a612c92746db",
+      "DisplayName": "CSharp3",
+      "ColorIndex": 2
+    },
+    "389960da-2288-4303-ba7e-7f12fc7ab347": {
+      "ProjectGuid": "389960da-2288-4303-ba7e-7f12fc7ab347",
+      "DisplayName": "CSharp4",
+      "ColorIndex": 3
+    },
+    "cf3df294-f29b-48b0-9b24-9c024139d6b4": {
+      "ProjectGuid": "cf3df294-f29b-48b0-9b24-9c024139d6b4",
+      "DisplayName": "CSharp5",
+      "ColorIndex": 4
+    },
+    "93045894-8368-4cd5-8521-50cdeb7c6b85": {
+      "ProjectGuid": "93045894-8368-4cd5-8521-50cdeb7c6b85",
+      "DisplayName": "CSharp6",
+      "ColorIndex": 5
+    },
+    "791cddac-dc7f-4c39-8533-6211bdc41d62": {
+      "ProjectGuid": "791cddac-dc7f-4c39-8533-6211bdc41d62",
+      "DisplayName": "CSharp7",
+      "ColorIndex": 6
+    },
+    "c8470930-a80f-4d97-a1de-01bca35f5e34": {
+      "ProjectGuid": "c8470930-a80f-4d97-a1de-01bca35f5e34",
+      "DisplayName": "CSharp8",
+      "ColorIndex": 7
+    },
+    "e849a767-ef85-4f88-ab2b-0e2e7809f581": {
+      "ProjectGuid": "e849a767-ef85-4f88-ab2b-0e2e7809f581",
+      "DisplayName": "CSharp9",
+      "ColorIndex": 8
+    },
+    "b99477ff-bedf-46fe-8a2c-1fd2b77d82a3": {
+      "ProjectGuid": "b99477ff-bedf-46fe-8a2c-1fd2b77d82a3",
+      "DisplayName": "CSharp10",
+      "ColorIndex": 9
+    },
+    "6c446734-8bd1-4fb8-b38e-8ea83e6050f3": {
+      "ProjectGuid": "6c446734-8bd1-4fb8-b38e-8ea83e6050f3",
+      "DisplayName": "CSharp11",
+      "ColorIndex": 10
+    },
+    "3bbc7aa7-989a-4d6c-b08a-7e3b825ed683": {
+      "ProjectGuid": "3bbc7aa7-989a-4d6c-b08a-7e3b825ed683",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 11
+    },
+    "07c289b2-8b01-4ef3-b83d-e811f01993bd": {
+      "ProjectGuid": "07c289b2-8b01-4ef3-b83d-e811f01993bd",
+      "DisplayName": "CSharp11",
+      "ColorIndex": 12
+    },
+    "36123743-b499-4d35-9bc5-2ff5da512037": {
+      "ProjectGuid": "36123743-b499-4d35-9bc5-2ff5da512037",
+      "DisplayName": "CSharp12",
+      "ColorIndex": 13
+    },
+    "a43205ec-9568-47bd-be1a-dcb93f932158": {
+      "ProjectGuid": "a43205ec-9568-47bd-be1a-dcb93f932158",
+      "DisplayName": "CSharp13",
+      "ColorIndex": 14
+    },
+    "9c0ac2f7-e35e-41f1-8752-4ef8fd6c6161": {
+      "ProjectGuid": "9c0ac2f7-e35e-41f1-8752-4ef8fd6c6161",
+      "DisplayName": "CSharp14",
+      "ColorIndex": 15
+    },
+    "3f83ff8b-1031-42af-9e7a-d85f3219793c": {
+      "ProjectGuid": "3f83ff8b-1031-42af-9e7a-d85f3219793c",
+      "DisplayName": "CSharp8",
+      "ColorIndex": 0
+    },
+    "57534acc-2968-45fe-8c49-e4da1e50a151": {
+      "ProjectGuid": "57534acc-2968-45fe-8c49-e4da1e50a151",
+      "DisplayName": "CSharp10",
+      "ColorIndex": 1
+    },
+    "01f512e0-611f-46c9-a5b7-79c7b9f6c6af": {
+      "ProjectGuid": "01f512e0-611f-46c9-a5b7-79c7b9f6c6af",
+      "DisplayName": "CSharp16",
+      "ColorIndex": 2
+    },
+    "0a13a646-2c0d-49b3-a93f-7da28220a269": {
+      "ProjectGuid": "0a13a646-2c0d-49b3-a93f-7da28220a269",
+      "DisplayName": "CSharp17",
+      "ColorIndex": 3
+    },
+    "a452eaae-a99d-4690-adaa-cbbdfccf4b42": {
+      "ProjectGuid": "a452eaae-a99d-4690-adaa-cbbdfccf4b42",
+      "DisplayName": "Menudriven",
+      "ColorIndex": 4
+    },
+    "822d5b8e-6b87-4437-8638-2f8840fa4dae": {
+      "ProjectGuid": "822d5b8e-6b87-4437-8638-2f8840fa4dae",
+      "DisplayName": "CSharp9",
+      "ColorIndex": 5
+    },
+    "22ea2d75-421a-43c7-98a3-589c2674f68e": {
+      "ProjectGuid": "22ea2d75-421a-43c7-98a3-589c2674f68e",
+      "DisplayName": "CSharp15",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,8 @@
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\bin\Debug\CSharp5.exe.config
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\bin\Debug\CSharp5.exe
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\bin\Debug\CSharp5.pdb
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\obj\Debug\CSharp5.csproj.AssemblyReference.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\obj\Debug\CSharp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\obj\Debug\CSharp5.csproj.CoreCompileInputs.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\obj\Debug\CSharp5.exe
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp5\obj\Debug\CSharp5.pdb

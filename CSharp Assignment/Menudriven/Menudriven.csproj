@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A452EAAE-A99D-4690-ADAA-CBBDFCCF4B42}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Menudriven</RootNamespace>
+    <AssemblyName>Menudriven</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSharp Assignment\CSharp1.csproj">
+      <Project>{bebde59c-35b4-4810-acdb-f080611a11bc}</Project>
+      <Name>CSharp1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp10\CSharp10.csproj">
+      <Project>{57534acc-2968-45fe-8c49-e4da1e50a151}</Project>
+      <Name>CSharp10</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp11\CSharp11.csproj">
+      <Project>{07c289b2-8b01-4ef3-b83d-e811f01993bd}</Project>
+      <Name>CSharp11</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp12\CSharp12.csproj">
+      <Project>{36123743-b499-4d35-9bc5-2ff5da512037}</Project>
+      <Name>CSharp12</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp13\CSharp13.csproj">
+      <Project>{a43205ec-9568-47bd-be1a-dcb93f932158}</Project>
+      <Name>CSharp13</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp14\CSharp14.csproj">
+      <Project>{9c0ac2f7-e35e-41f1-8752-4ef8fd6c6161}</Project>
+      <Name>CSharp14</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp15\CSharp15.csproj">
+      <Project>{22ea2d75-421a-43c7-98a3-589c2674f68e}</Project>
+      <Name>CSharp15</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp16\CSharp16.csproj">
+      <Project>{01f512e0-611f-46c9-a5b7-79c7b9f6c6af}</Project>
+      <Name>CSharp16</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp17\CSharp17.csproj">
+      <Project>{0a13a646-2c0d-49b3-a93f-7da28220a269}</Project>
+      <Name>CSharp17</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp2\CSharp2.csproj">
+      <Project>{c6f63169-e49f-4ecc-b686-5de601d11bff}</Project>
+      <Name>CSharp2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp3\CSharp3.csproj">
+      <Project>{c2c3fd74-6240-4dc6-a058-a612c92746db}</Project>
+      <Name>CSharp3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp4\CSharp4.csproj">
+      <Project>{389960da-2288-4303-ba7e-7f12fc7ab347}</Project>
+      <Name>CSharp4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp5\CSharp5.csproj">
+      <Project>{cf3df294-f29b-48b0-9b24-9c024139d6b4}</Project>
+      <Name>CSharp5</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp6\CSharp6.csproj">
+      <Project>{93045894-8368-4cd5-8521-50cdeb7c6b85}</Project>
+      <Name>CSharp6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp7\CSharp7.csproj">
+      <Project>{791cddac-dc7f-4c39-8533-6211bdc41d62}</Project>
+      <Name>CSharp7</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp8\CSharp8.csproj">
+      <Project>{3f83ff8b-1031-42af-9e7a-d85f3219793c}</Project>
+      <Name>CSharp8</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSharp9\CSharp9.csproj">
+      <Project>{822d5b8e-6b87-4437-8638-2f8840fa4dae}</Project>
+      <Name>CSharp9</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

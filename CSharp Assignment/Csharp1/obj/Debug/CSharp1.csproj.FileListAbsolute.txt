@@ -1,0 +1,15 @@
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp1.csproj.AssemblyReference.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp Assignment.exe
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp Assignment.pdb
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\bin\Debug\CSharp Assignment.exe.config
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\bin\Debug\CSharp Assignment.exe
+C:\Users\sumanchakraborty\source\repos\CSharp Assignment\CSharp Assignment\bin\Debug\CSharp Assignment.pdb
+C:\Users\rahulsingh08\Desktop\CSharp Assignment\CSharp Assignment\bin\Debug\CSharp Assignment.exe.config
+C:\Users\rahulsingh08\Desktop\CSharp Assignment\CSharp Assignment\bin\Debug\CSharp Assignment.exe
+C:\Users\rahulsingh08\Desktop\CSharp Assignment\CSharp Assignment\bin\Debug\CSharp Assignment.pdb
+C:\Users\rahulsingh08\Desktop\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp1.csproj.AssemblyReference.cache
+C:\Users\rahulsingh08\Desktop\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\rahulsingh08\Desktop\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp Assignment.exe
+C:\Users\rahulsingh08\Desktop\CSharp Assignment\CSharp Assignment\obj\Debug\CSharp Assignment.pdb
